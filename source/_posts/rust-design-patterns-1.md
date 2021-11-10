@@ -10,6 +10,7 @@ tags: rust
   - 使用`&str`而非`&String`
   - 使用`&[T]` 而非 `&Vec<T>`
   - 使用`&T` 而非 `&Box<T>`
+<!-- more -->
 
 例如下方的`three_vowels2`可以更好的支援String以及str兩種型態
 
