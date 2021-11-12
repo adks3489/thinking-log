@@ -1,7 +1,9 @@
 ---
 title: Rust Design Pattern 讀後整理 - Idioms(上)
 date: 2021-11-07 21:16:15
-tags: rust
+tags: 
+  - rust
+  - design pattern
 ---
 
 # 2. Idioms
