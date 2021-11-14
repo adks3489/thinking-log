@@ -1,5 +1,5 @@
 ---
-title: Rust Design Pattern 讀後整理 - Design Patterns
+title: Rust Design Pattern 讀後整理 - Design Patterns(上)
 date: 2021-11-11 09:06:20
 tags: 
   - rust
